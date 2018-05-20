@@ -23,6 +23,22 @@ Developers continue to use the terminal instead of the GUI because it makes you 
 
 Understanding the terminal is like being Neo from the matrix- you can see the secret hidden files on your computer. This is industry practice.
 
+#### I.S. Illustrative and Awesome Squirrell-In-Tree Analogy
+
+Explain this metaphor as a “smart keyboard method”. Have 1 teacher walk though the metaphor and the other draws the tree on an anchor chart. 
+Imagine that you’re navigating this folder directory in the same way that a squirrel climbing up a tree. You’re standing on the surface and you see a giant tree trunk named “Development”. You climb up the trunk and see that the tree splits into 3 new branches. There’s a branch for trips, a branch for music, and a branch for dances. You’re exciting about summer vacation, so you climb up down the “trip” branch. Soon, the trip branch splits off into 3 smaller branches for the places you want to go.  There’s a branch for Egypt, a branch for Japan, and a branch for Paraguay. You’re all about the pyramids, so you jump you jump down the Egypt hole. Hopefully, this analogy makes sense, BUTTTT there’s a weird part. You’re a very silly squirrel who’s afraid of heights- you can only move up one branch at a time, and you can only go down the tree with special instruction.  
+Building the metaphor:
+
+cd Egypt ---> (moves the squirrel to a new branch)
+mkdir cairo ---> this makes a branch spring up from wherever the squirrel is currently standing. In this example, the squirrel is standing on the “Egypt” branch from the line above
+cd .. ---->  To move down a branch  
+
+CFU (on your whiteboards with your partner, turn and talk)
+So our squirrel ended up on the Cairo branch, what would we have to type in to get our squirell to move back to the Egypt branch?
+What would we have type in to make a new branch for McDonalds in Egypt?
+What would happen if we types in cd .. three times (after starting off at the McDonalds branch we just made)? Where would we end up?
+
+
 ## Lesson Plan 
 
 ### Opening Your Sandbox
